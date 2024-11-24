@@ -24,9 +24,9 @@ Whether you are a beginner or an experienced developer, this repository will hel
 ### Creational Patterns
 - Singleton (Covered)
 - Factory Method (Covered) 
-- Abstract Factory 
-- Builder
-- Prototype
+- Abstract Factory (Will Be Covered)
+- Builder (Will Be Covered)
+- Prototype (Will Be Covered)
 
 ### Structural Patterns
 - Adapter
